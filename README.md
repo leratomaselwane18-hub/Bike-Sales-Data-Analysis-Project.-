@@ -22,6 +22,8 @@ Before building the dashboard, the raw data required comprehensive restructuring
 * **Interactive Slicers:** Connected global slicers for *Region*, *Education*, and *Marital Status* to allow for cross-functional reporting across all charts simultaneously.
 
 ## How to View the Project
-1. Download the `Excel Project Dataset.xlsx` file from this repository.
-2. Open it in Microsoft Excel.
-3. Navigate to the **Dashboard** tab to interact with the visualizations and slicers.
+1. Download the [Excel Project Dataset.xlsx](Excel%20Project%20Dataset.xlsx) file directly from this repository.
+2. <img width="4032" height="3024" alt="Excel Visualisation" src="https://github.com/user-attachments/assets/01b0d237-9760-4691-a445-62b0e475e8f7" />
+
+3. Open it in Microsoft Excel.
+4. Navigate to the **Dashboard** tab to interact with the visualizations and slicers.
